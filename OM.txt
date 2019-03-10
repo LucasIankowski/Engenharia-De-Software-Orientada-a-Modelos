@@ -1,0 +1,8 @@
+  O autor começa falando sobre as aplicações da modelagem de software e então justifica acertadamente a utilização de
+modelos uma vez que permite raciocinar sobre o sistema atentando apenas aos detalhes importantes,
+outro ponto mencionado é que os modelos podem ser facilmente transformados.
+  Três ideias são listadas no que diz respeito à natureza abstrata de um modelo:
+  Classificação de modelos: É a melhor escolha a ser tomada em relação ao que foi pedido
+  Independência de plataformas: É o sistema não ser dependente de uma plataforma, como um sistema operacional específico, por exemplo,
+o que é um pensamento razoável, uma vez que o usuário não deve ficar preso à uma máquina exclusiva.
+  Transformação e refinamento de modelos: Quando os modelos são bem definidos deve ser possível transformar os padrões facilmente
