@@ -1,8 +1,9 @@
-  O autor comeÁa falando sobre as aplicaÁıes da modelagem de software e ent„o justifica acertadamente a utilizaÁ„o de
+  O autor come√ßa falando sobre as aplica√ß√µes da modelagem de software e ent√£o justifica acertadamente a utiliza√ß√£o de
 modelos uma vez que permite raciocinar sobre o sistema atentando apenas aos detalhes importantes,
-outro ponto mencionado È que os modelos podem ser facilmente transformados.
-  TrÍs ideias s„o listadas no que diz respeito ‡ natureza abstrata de um modelo:
-  ClassificaÁ„o de modelos: … a melhor escolha a ser tomada em relaÁ„o ao que foi pedido
-  IndependÍncia de plataformas: … o sistema n„o ser dependente de uma plataforma, como um sistema operacional especÌfico, por exemplo,
-o que È um pensamento razo·vel, uma vez que o usu·rio n„o deve ficar preso ‡ uma m·quina exclusiva.
-  TransformaÁ„o e refinamento de modelos: Quando os modelos s„o bem definidos deve ser possÌvel transformar os padrıes facilmente
+outro ponto mencionado √© que os modelos podem ser facilmente transformados.
+  Tr√™s ideias s√£o listadas no que diz respeito √† natureza abstrata de um modelo:
+  Classifica√ß√£o de modelos: √â a melhor escolha a ser tomada em rela√ß√£o ao que foi pedido.
+  Independ√™ncia de plataformas: √â o sistema n√£o ser dependente de uma plataforma, como um sistema operacional espec√≠fico, por exemplo,
+o que √© um pensamento razo√°vel, uma vez que o usu√°rio n√£o deve ficar preso √† uma m√°quina exclusiva.
+  Transforma√ß√£o e refinamento de modelos: Quando os modelos s√£o bem definidos deve ser poss√≠vel transformar os padr√µes facilmente.
+ 
